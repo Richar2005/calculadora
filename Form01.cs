@@ -153,10 +153,5 @@ namespace WindowsFormsApp3
             resultado = primero;
             Pantalla.Text = Math.Sqrt(primero).ToString();
         }
-
-        private void Pantalla_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
